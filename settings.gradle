@@ -1,0 +1,2 @@
+rootProject.name = "MAD_LAB3"
+include ':app'
